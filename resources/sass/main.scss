@@ -1,0 +1,12 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@import './abstracts/variables';
+
+@import './components/about';
+@import './components/contact';
+@import './components/navbar';
+@import './components/landing';
+
+@import './pages/home';
